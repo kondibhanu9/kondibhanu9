@@ -4,7 +4,7 @@
 **kondibhanu9/kondibhanu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently studying in ...
-     * Aditya engineering college
+     * Aditya engineering college*
    🌱 I’m currently learning ...
      * source code management using git and github
      * python
