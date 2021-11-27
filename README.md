@@ -7,6 +7,11 @@
      * Aditya engineering college
    🌱 I’m currently learning ...
      * source code management using git and github
+     * python
+     * c++
+     * ADS
+     * html
+     * OS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
      
